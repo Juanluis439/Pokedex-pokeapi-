@@ -182,3 +182,8 @@ main {
     background-color: var(--type-steel);
     color: var(--clr-black);
 }
+
+.fairy {
+    background-color: var(--type-fairy);
+    color: var(--clr-black);
+}
